@@ -1,0 +1,23 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "Proyecti que usa NodeJS e implementa SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricard0Ponce/ProjectSASSGulp.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Ricard0Ponce.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ricard0Ponce/ProjectSASSGulp/issues"
+  },
+  "homepage": "https://github.com/Ricard0Ponce/ProjectSASSGulp#readme"
+}
